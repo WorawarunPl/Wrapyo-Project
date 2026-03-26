@@ -24,4 +24,4 @@ A full-cycle web application for ordering customized wraps, featuring an interac
 
 * **Front-End:** HTML5, CSS3, JavaScript
 * **Back-End:** PHP
-* **Database:** MySQL *(ถ้าคุณใช้ MySQL เก็บข้อมูล Stock/Order แนะนำให้ใส่เพิ่มไปด้วยครับ เพราะมักจะใช้คู่กับ PHP)*
+* **Database:** MySQL 
